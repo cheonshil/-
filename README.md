@@ -1,5 +1,6 @@
 # python
 
-# 링크달기
+#링크달기
 
-[구글](http://google.com)
+[구글](http://google.com)   
+http://google.com   
